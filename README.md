@@ -100,6 +100,6 @@ It’s a demonstration of **data-driven thinking**, **technical fluency**, and *
 
 ## 📬 Contact
 
-If you're a recruiter or hiring manager interested in my work, feel free to connect via [LinkedIn]((https://www.linkedin.com/in/arvind-kumar-560885231/)) or reach out through GitHub.
+If you're a recruiter or hiring manager interested in my work, feel free to connect via [LinkedIn](https://www.linkedin.com/in/arvind-kumar-560885231/) or reach out through GitHub.
 
 
